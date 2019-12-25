@@ -1,6 +1,6 @@
 {
-	"name": "wow-armory",
 	"homepage": "http://MinhNguyen911.github.io/wow-armory",
+	"name": "wow-armory",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
