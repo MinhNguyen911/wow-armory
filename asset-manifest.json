@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wow-armory/static/css/main.af3b3401.chunk.css",
+    "main.js": "/wow-armory/static/js/main.7df1e061.chunk.js",
+    "main.js.map": "/wow-armory/static/js/main.7df1e061.chunk.js.map",
+    "runtime-main.js": "/wow-armory/static/js/runtime-main.e4776dfa.js",
+    "runtime-main.js.map": "/wow-armory/static/js/runtime-main.e4776dfa.js.map",
+    "static/js/2.38e91ee5.chunk.js": "/wow-armory/static/js/2.38e91ee5.chunk.js",
+    "static/js/2.38e91ee5.chunk.js.map": "/wow-armory/static/js/2.38e91ee5.chunk.js.map",
+    "index.html": "/wow-armory/index.html",
+    "precache-manifest.042b217f21e9a89ac277dcf2c84ddb3b.js": "/wow-armory/precache-manifest.042b217f21e9a89ac277dcf2c84ddb3b.js",
+    "service-worker.js": "/wow-armory/service-worker.js",
+    "static/css/main.af3b3401.chunk.css.map": "/wow-armory/static/css/main.af3b3401.chunk.css.map",
+    "static/js/2.38e91ee5.chunk.js.LICENSE": "/wow-armory/static/js/2.38e91ee5.chunk.js.LICENSE",
+    "static/media/index.css": "/wow-armory/static/media/background.df8be05f.jpg",
+    "static/media/raidbots.jpg": "/wow-armory/static/media/raidbots.927bb3d7.jpg",
+    "static/media/rio.png": "/wow-armory/static/media/rio.5d82d619.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4776dfa.js",
+    "static/js/2.38e91ee5.chunk.js",
+    "static/css/main.af3b3401.chunk.css",
+    "static/js/main.7df1e061.chunk.js"
+  ]
+}
