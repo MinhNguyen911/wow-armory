@@ -127,7 +127,10 @@ const App = () => {
 									onChange={updateRegion}
 									ref={register({
 										required: true,
-										validate: value => ['us', 'eu', 'tw', 'kr'].includes(value)
+										validate: value =>
+											['us', 'eu', 'tw', 'kr', 'US', 'EU', 'TW', 'KR'].includes(
+												value
+											)
 									})}
 								/>
 								{errors.region && errors.region.type === 'required' && (
