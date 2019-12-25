@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wow-armory/static/css/main.280115b8.chunk.css",
-    "main.js": "/wow-armory/static/js/main.7df1e061.chunk.js",
-    "main.js.map": "/wow-armory/static/js/main.7df1e061.chunk.js.map",
+    "main.js": "/wow-armory/static/js/main.0c8b48ee.chunk.js",
+    "main.js.map": "/wow-armory/static/js/main.0c8b48ee.chunk.js.map",
     "runtime-main.js": "/wow-armory/static/js/runtime-main.e4776dfa.js",
     "runtime-main.js.map": "/wow-armory/static/js/runtime-main.e4776dfa.js.map",
     "static/js/2.38e91ee5.chunk.js": "/wow-armory/static/js/2.38e91ee5.chunk.js",
     "static/js/2.38e91ee5.chunk.js.map": "/wow-armory/static/js/2.38e91ee5.chunk.js.map",
     "index.html": "/wow-armory/index.html",
-    "precache-manifest.9e4e955b3fe8c30a028dfd50191d5e5a.js": "/wow-armory/precache-manifest.9e4e955b3fe8c30a028dfd50191d5e5a.js",
+    "precache-manifest.72b2aa8c733c0fd118158e52234bacef.js": "/wow-armory/precache-manifest.72b2aa8c733c0fd118158e52234bacef.js",
     "service-worker.js": "/wow-armory/service-worker.js",
     "static/css/main.280115b8.chunk.css.map": "/wow-armory/static/css/main.280115b8.chunk.css.map",
     "static/js/2.38e91ee5.chunk.js.LICENSE": "/wow-armory/static/js/2.38e91ee5.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e4776dfa.js",
     "static/js/2.38e91ee5.chunk.js",
     "static/css/main.280115b8.chunk.css",
-    "static/js/main.7df1e061.chunk.js"
+    "static/js/main.0c8b48ee.chunk.js"
   ]
 }

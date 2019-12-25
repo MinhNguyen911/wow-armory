@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82906611b248ad4b550e2ffed2a37af8",
+    "revision": "47b5a1ffa6c143934943bd1d57313f3b",
     "url": "/wow-armory/index.html"
   },
   {
-    "revision": "742a40a1133900c7afeb",
+    "revision": "a6da7e87ba14753f187f",
     "url": "/wow-armory/static/css/main.280115b8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wow-armory/static/js/2.38e91ee5.chunk.js.LICENSE"
   },
   {
-    "revision": "742a40a1133900c7afeb",
-    "url": "/wow-armory/static/js/main.7df1e061.chunk.js"
+    "revision": "a6da7e87ba14753f187f",
+    "url": "/wow-armory/static/js/main.0c8b48ee.chunk.js"
   },
   {
     "revision": "a99dee1fea43413ac389",

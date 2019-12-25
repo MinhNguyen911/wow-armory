@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wow-armory/precache-manifest.9e4e955b3fe8c30a028dfd50191d5e5a.js"
+  "/wow-armory/precache-manifest.72b2aa8c733c0fd118158e52234bacef.js"
 );
 
 self.addEventListener('message', (event) => {
